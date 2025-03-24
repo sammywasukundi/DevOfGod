@@ -15,13 +15,5 @@
 
 ---
 
-### ⚡ Mes stats GitHub  
-
-![Sammy's GitHub Stats](https://github-readme-stats.vercel.app/api?sammywasukundi=DevOfGod&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?sammywasukundi=DevOfGod&layout=compact&theme=radical)  
-
----
-
-
 💡 *Fun Fact:* *J’ai une copine… c’est quand même normal 🤷🏾‍♂️😂 !*  
 
