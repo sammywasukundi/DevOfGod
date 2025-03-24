@@ -17,8 +17,8 @@
 
 ### ⚡ Mes stats GitHub  
 
-![Sammy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=radical)  
+![Sammy's GitHub Stats](https://github-readme-stats.vercel.app/api?sammywasukundi=DevOfGod&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?sammywasukundi=DevOfGod&layout=compact&theme=radical)  
 
 ---
 
